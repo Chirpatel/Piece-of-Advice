@@ -1,0 +1,44 @@
+body,html{
+  margin:0pc;
+  overflow: hidden;
+}
+
+.App{
+margin:0px;
+display:flex;
+height:-webkit-fill-available;
+}
+.Background img{
+  position: absolute;
+  margin:0px;
+  top:0px; 
+  width: -webkit-fill-available;
+  height:-webkit-fill-available;
+  z-index:-1;
+}
+.Content{
+  padding:10px;
+  border-radius: 5px;
+  background-color:rgba(225, 225, 225, 1);
+  margin:auto auto;
+  display: grid;
+  border: black solid 2px;
+}
+.Content button{
+  margin:10px auto;
+  border-radius: 5px;
+  border:none;
+  padding: 5px 10px;
+  background-color:transparent;
+}
+.Content button:hover{
+  cursor: pointer;
+}
+.Content h1{
+  margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    opacity:1!important;
+    text-align: center;
+}
