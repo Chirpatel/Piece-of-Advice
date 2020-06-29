@@ -1,2 +1,2 @@
 ## Piece of Advice
-[link](https://pieceofadvice.netlify.app/)
+[Link](https://pieceofadvice.netlify.app/)
